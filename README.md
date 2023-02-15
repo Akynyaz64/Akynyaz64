@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akynyaz</h1>
 <h3 align="center">👨‍💻 A passionate frontend developer from Turkmenistan</h3>
 
-- 🔭 I’m currently working on [olimp](https://github.com/Akynyaz64/olymp)
+- 🔭 I’m currently working on [Olimp](https://github.com/Akynyaz64/olymp)
 
 - 🌱 I’m currently learning **React Native**
 
